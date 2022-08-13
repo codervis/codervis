@@ -1,8 +1,11 @@
 ### Hi there 👋
-
+[<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c-sharp" width="100">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img src="[https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png)" alt="golang" width="100">](https://vuejs.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
-[<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c-sharp" width="100">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+
+
 <!--
 **codervis/codervis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
