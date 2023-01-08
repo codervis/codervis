@@ -1,6 +1,6 @@
 ### Hi there 👋
 [<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c-sharp" width="100">](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="vue-js" width="100">](https://vuejs.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue-js" width="100">](https://vuejs.org/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
 
